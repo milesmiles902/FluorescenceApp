@@ -1,2 +1,8 @@
 # FluorescenceApp
-Broadband Fluorescence and Anisotropy app.
+
+An app for looking at broadband fluorescence. 
+
+Fang research group  
+
+Oregon State University.
+
